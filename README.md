@@ -1,5 +1,7 @@
 # Discord_Message-Nofication
 
+This bot work on the discord. It send to send user message history.
+
 # Refer Sites
 
 * Base Codes
